@@ -132,3 +132,4 @@ Top 100 Movies from The Pirate Bay
 
 
   [CodingHouse]: http://codinghouse.co/ "Coding House"
+  [The Pirate Bay]: https://thepiratebay.mn/ "The Pirate Bay"
