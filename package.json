@@ -1,0 +1,23 @@
+{
+  "name": "tpb-top100",
+  "version": "1.0.0",
+  "description": "List the top 100 most popular movies on The Pirate Bay.",
+  "bin": "./index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.61.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdegges/tpb-top100.git"
+  },
+  "keywords": [
+    "thepiratebay"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/tpb-top100/issues"
+  },
+  "homepage": "https://github.com/rdegges/tpb-top100#readme"
+}
